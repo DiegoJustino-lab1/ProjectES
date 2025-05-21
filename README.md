@@ -56,3 +56,9 @@ O projeto está organizado nos seguintes pacotes:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
+
+## 📖 Documentação da API (Swagger)
+
+Após rodar o projeto, acesse a documentação interativa dos endpoints pelo Swagger UI:
+
+[http://localhost:8080/swagger-ui/index.html](http://localhost:8080/swagger-ui/index.html)
